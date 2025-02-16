@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Character=Ishanvi, Skin tone=White, Posture=3 Sad.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

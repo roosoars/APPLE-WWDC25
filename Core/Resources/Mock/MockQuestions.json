@@ -1,0 +1,58 @@
+[
+    {
+        "imageName": "HAPPY_2",
+        "difficulty": "Level 1"
+    },
+    {
+        "imageName": "ANGRY_1",
+        "difficulty": "Level 1"
+    },
+    {
+        "imageName": "HAPPY_4",
+        "difficulty": "Level 1"
+    },
+    {
+        "imageName": "SAD_1",
+        "difficulty": "Level 2"
+    },
+    {
+        "imageName": "ANGRY_2",
+        "difficulty": "Level 2"
+    },
+    {
+        "imageName": "HAPPY_1",
+        "difficulty": "Level 2"
+    },
+    {
+        "imageName": "SAD_2",
+        "difficulty": "Level 3"
+    },
+    {
+        "imageName": "SHOCKED_1",
+        "difficulty": "Level 3"
+    },
+    {
+        "imageName": "SHOCKED_2",
+        "difficulty": "Level 3"
+    },
+    {
+        "imageName": "HAPPY_5",
+        "difficulty": "Level 4"
+    },
+    {
+        "imageName": "SHOCKED_3",
+        "difficulty": "Level 4"
+    },
+    {
+        "imageName": "ANGRY_3",
+        "difficulty": "Level 4"
+    },
+    {
+        "imageName": "SAD_3",
+        "difficulty": "Level 4"
+    },
+    {
+        "imageName": "SHOCKED_6",
+        "difficulty": "Level 4"
+    }
+]
